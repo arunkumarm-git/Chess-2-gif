@@ -1,0 +1,115 @@
+[Event "WR Chess Masters TB 2023"]
+[Site "Dusseldorf GER"]
+[Date "2023.02.25"]
+[Round "1.1"]
+[White "Aronian, Levon"]
+[Black "Gukesh, D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2718"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "46616543"]
+[EventDate "2023.02.25"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 O-O 8. e3
+Bf5 9. Qb3 Bxc3+ 10. Qxc3 g5 11. Bg3 Ne4 12. Qa3 Nc6 13. Nd2 a5 14. Nxe4 Bxe4
+15. f3 Bg6 16. Bd3 Bxd3 17. Qxd3 Qd7 18. O-O Ne7 19. e4 c6 20. e5 Qf5 21. Qb3 b5
+22. Rac1 Rac8 23. Qa3 Ng6 24. Qxa5 h5 25. Qd2 h4 26. Bf2 f6 27. exf6 Rxf6 28. h3
+Re6 29. Rfe1 Rce8 30. Rxe6 Rxe6 31. Be3 Nf4 32. Bxf4 gxf4 33. Re1 Rxe1+ 34. Qxe1
+Qf6 35. Qd2 Qd6 36. Kf1 Kg7 37. b3 b4 38. Qe1 Qg6 39. Kg1 Qc2 40. Qxb4 Qxa2 41.
+Qb7+ Kg8 42. Qb8+ Kg7 43. Qc7+ Kg8 44. Qd8+ Kg7 45. Qg5+ 1-0
+
+[Event "WR Chess Masters TB 2023"]
+[Site "Dusseldorf GER"]
+[Date "2023.02.25"]
+[Round "2.1"]
+[White "Nepomniachtchi, Ian"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2736"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Marini variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "13300474"]
+[EventDate "2023.02.25"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. Qc2 Nxc3 7. bxc3 Bd6 8.
+e3 O-O 9. d4 Bg4 10. Bd3 Bxf3 11. gxf3 Qh4 12. Bb2 g6 13. d5 Na5 14. c4 b6 15.
+O-O-O Nb7 16. Rdg1 Nc5 17. Bf1 f5 18. Rg3 Rae8 19. Rhg1 Rf7 20. Kb1 Kf8 21. Rh3
+Qf6 22. Be2 Ke7 23. Bd1 Kd8 24. Qe2 Qe7 25. Bc2 Kc8 26. Ka2 Qd7 27. Rhg3 f4 28.
+Rg4 e4 29. exf4 exf3 30. Qxf3 Kb7 31. f5 Be5 32. d6+ c6 33. Bxe5 Rxe5 34. Rd1
+gxf5 35. Rg8 Qe6 36. Qc3 Rd7 37. Kb1 Ne4 38. Bxe4 fxe4 39. Qd4 Qxg8 40. Qxe5
+Qxc4 41. Qg3 Qe6 42. Kb2 c5 43. Qf4 Rf7 44. Qe3 Kc6 45. Kb1 Rd7 46. Qf4 Qb3+ 0-1
+
+[Event "WR Chess Masters TB 2023"]
+[Site "Dusseldorf GER"]
+[Date "2023.02.25"]
+[Round "3.1"]
+[White "Gukesh, D"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2718"]
+[BlackElo "2793"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "46616543"]
+[BlackFideId "4168119"]
+[EventDate "2023.02.25"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. cxd5 exd5 6. Bf4 c6 7. e3 Bf5 8. Nh4
+Bg4 9. Qc2 Nh5 10. h3 Be6 11. Nf3 Nxf4 12. exf4 Bd6 13. g3 Qf6 14. Bd3 g6 15.
+O-O-O Nd7 16. Ne5 Nb6 17. Kb1 O-O-O 18. Nb5 Kb8 19. Nxd6 Rxd6 20. b3 Nc8 21. h4
+Rdd8 22. Rc1 Nd6 23. Rhe1 Rc8 24. Qd2 Rhd8 25. f3 Bf5 26. Bxf5 Qxf5+ 27. Ka1 Rc7
+28. Nd3 Qf6 29. Re5 Nf5 30. Qf2 Qd6 31. g4 Ng7 32. Rce1 b6 33. h5 f6 34. R5e2
+gxh5 35. f5 Kb7 36. Kb2 a5 37. a4 Rdd7 38. Qh2 Qxh2 39. Rxh2 hxg4 40. fxg4 h5
+41. gxh5 Nxf5 42. Rf1 Nxd4 43. Rxf6 Rh7 44. h6 Rce7 45. Kc3 Ne2+ 46. Kd2 Ng3 47.
+Kc2 Ne4 48. Rg6 Rhf7 49. Rhg2 Nf6 50. Rf2 Ne4 51. Rxf7 Rxf7 52. Ne5 Rf2+ 53. Kd3
+Rh2 54. Rg7+ Ka6 55. h7 Nf6 56. Nxc6 b5 57. Rg6 Nxh7 58. Nd8+ Ka7 59. axb5 Nf8
+60. b6+ Ka6 61. b7+ Ka7 62. Ra6+ 1-0
+
+[Event "WR Chess Masters TB 2023"]
+[Site "Dusseldorf GER"]
+[Date "2023.02.25"]
+[Round "4.1"]
+[White "Gukesh, D"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2718"]
+[BlackElo "2736"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "46616543"]
+[BlackFideId "13300474"]
+[EventDate "2023.02.25"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bg5 h6 6. Bh4 Ne7 7. Bxf6 gxf6 8. d4
+exd4 9. Nbd2 c6 10. Bc4 b5 11. Bd3 d6 12. a4 b4 13. Nb3 Bg4 14. Be2 Bxf3 15.
+Bxf3 a5 16. Nxd4 Qb6 17. c3 bxc3 18. bxc3 Bxd4 19. cxd4 Qb4+ 20. Kf1 Rb8 21. g3
+Qb3 22. Kg2 Qxd1 23. Rhxd1 Kd7 24. Bg4+ Kc7 25. Rd3 h5 26. Bd1 Rb4 27. h4 f5 28.
+exf5 Nxf5 29. d5 c5 30. Rf3 Nd4 31. Rxf7+ Kb6 32. Rd7 c4 33. Rxd6+ Kc5 34. Rd7
+Rb2 35. Rc1 Rf8 36. Bxh5 Rfxf2+ 37. Kh3 Nf5 38. Kg4 Ne3+ 39. Kg5 Rf5+ 40. Kg6
+Rg2 41. g4 Rxd5 42. Rc7+ Kd6 43. R7xc4 Nxc4 44. Rxc4 Rb2 45. g5 Rb4 46. Be2 Rxc4
+47. Bxc4 Rd4 48. Bb5 Rxh4 49. Kg7 Ke7 50. g6 Rb4 51. Bc6 Rc4 52. Bb5 Rc7 53. Bd3
+Ke6+ 54. Kf8 Kf6 55. Ke8 Rc1 56. Bb5 Rd1 57. Bd7 Kxg6 58. Kd8 Rc1 59. Bb5 Kf6
+60. Kd7 Ke5 61. Bc6 Kd4 62. Kd6 Kc4 63. Bb5+ Kb4 64. Kd5 Rd1+ 65. Ke4 Kc3 66.
+Ke5 Rd4 67. Be8 Rh4 68. Bb5 Rh5+ 69. Ke4 Rc5 70. Bd7 Kb4 71. Bb5 Rc1 72. Kd3
+Rd1+ 73. Kc2 Rd8 74. Kb2 Rd2+ 75. Kc1 Kc3 76. Kb1 Rb2+ 77. Kc1 Rb4 78. Kd1 Rb2
+79. Kc1 Rd2 80. Kb1 Kb3 81. Kc1 Rd8 82. Be2 Kxa4 83. Kb1 Kb3 84. Bg4 Rd6 85. Bh5
+Rf6 86. Bd1+ Ka3 87. Bh5 Rb6+ 88. Kc2 Rb2+ 89. Kc1 Rb4 90. Bf7 Ka4 91. Be8+ Kb3
+92. Bf7+ Kc3 0-1
+
